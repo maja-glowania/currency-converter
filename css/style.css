@@ -11,9 +11,9 @@ html {
 .body {
   font-family: "Montserrat", sans-serif;
   margin: auto;
-  max-width: 1000px;
   padding: 40px;
-  background-image: url(../images/Cash.jpg);
+  background-image: url("../images/background2.jpg");
+  background-size: cover;
 }
 
 .form {
