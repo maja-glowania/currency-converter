@@ -13,9 +13,7 @@ html {
   margin: auto;
   padding: 40px;
   background-image: url("../images/money-image.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
+  background-size: 300px;
 }
 
 .form {
