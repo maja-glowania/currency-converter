@@ -15,7 +15,7 @@ html {
   background-image: url("../images/money-image.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: contain;
 }
 
 .form {
