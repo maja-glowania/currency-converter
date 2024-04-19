@@ -12,8 +12,9 @@ html {
   font-family: "Montserrat", sans-serif;
   margin: auto;
   padding: 40px;
-  background-image: url("../images/background3.jpg");
-  background-repeat: repeat;
+  background-image: url("../images/money-image.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .form {
