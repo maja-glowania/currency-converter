@@ -9,7 +9,7 @@ This site contains a simple currency conventer in which you can convert any amou
 
 https://maja-glowania.github.io/currency-converter/
 
-![site-screenshot](https://i.postimg.cc/JnbhRWCL/Zrzut-ekranu-2024-04-01-210946.png)
+![site-screenshot](https://i.postimg.cc/C5Nksxd4/Zrzut-ekranu-1.png)
 
 ## Technologies
 
